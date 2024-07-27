@@ -92,3 +92,11 @@ This project is a web scraping tool built using the FastAPI framework. The tool 
 2. **Check the Console Output**
 
    The console will show the status of the scraping process, including the number of products scraped.
+
+## Explanation of Important Files
+
+- **main.py**: Contains the FastAPI application and endpoint definitions.
+- **scraper.py**: Contains the `Scraper` class that performs the web scraping.
+- **requirements.txt**: Lists the Python packages required for the project.
+- **products.json**: The file where scraped products are stored.
+- **images/**: Directory where product images are saved.
