@@ -1,4 +1,4 @@
-# Product Scraper with FastAPI
+# Dental Products Scraper with FastAPI
 
 This project is a web scraping tool built using the FastAPI framework. The tool scrapes product information from a target website and stores it in a local JSON file. It also includes features like proxy support, page limit configuration, and token-based authentication.
 
